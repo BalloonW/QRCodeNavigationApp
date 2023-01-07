@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app_qr_sc",
+    "slug": "app_qr_sc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app_qr_sc"
+}
